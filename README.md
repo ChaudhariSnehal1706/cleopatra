@@ -12,7 +12,7 @@
 
 >Looking for an admin dashboard that was made with you in mind, look no further than Cleopatra Admin Template. A powerful admin dashboard template built on **tailwind css**, Cleopatra is **developer-first** Template , rich with features and highly customizable. i'am followed the highest industry standards to bring you the very best admin template that is not only fast and easy to use but highly scalable.
 
-
+-
 ---
 **Cleopatra** has been carefully coded with clear comments in all of its JS, SASS and HTML files. SASS has been used to increase code customizability.
 
